@@ -1,0 +1,9 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\bin\Debug\levenstein.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\bin\Debug\levenstein.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\bin\Debug\levenstein.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.Properties.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\s2843101\levenstein\levenstein\obj\Debug\levenstein.pdb
